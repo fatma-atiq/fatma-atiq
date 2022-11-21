@@ -3,7 +3,7 @@
 <h3 align="center">Back-End Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Back-End (PHP - Laravel)<br>👯 I’m looking to collaborate on  Team Work to gain experience in My Field<br>🌱 I’m currently learning MERN Stack <br>🤝 I’m currently open for An Intern or a new job opportunity<br>💬 Ask me about Front - End developer<br>📫 How to reach me fatmaatiq17@gmail.com<br>
+🔭 I’m currently working on Back-End (PHP - Laravel)<br>👯 I’m looking to collaborate on  Team Work to gain experience in My Field<br>🌱 I’m currently learning MERN Stack <br>🤝 I’m currently open for An Intern or a new job opportunity<br>💬 Ask me about Front - End developer<br>
 
 
 ## 🌐 Socials:
